@@ -14,5 +14,5 @@ Today I had learned about the different functions in python such as enumerate, l
 Learned about the OOPs concept, constructor and destructor, Encapsulation and polymorphism in python. Also, get to know about the difference between a static method and a class method in python. Check it <a href="https://github.com/dubeyshubham786/66daysofdata/blob/main/Day%204/Day_4.ipynb">here</a>
 
 ## Day 5
-Learned about the NumPy library in python and its methods and why we prefer this library over the list. Also, get to know about the matrix operations in NumPy and various methods to merge the NumPy arrays. <a href="https://github.com/dubeyshubham786/66daysofdata/blob/main/Day%205/Day_5.ipynb"></a>
+Learned about the NumPy library in python and its methods and why we prefer this library over the list. Also, get to know about the matrix operations in NumPy and various methods to merge the NumPy arrays. Check it <a href="https://github.com/dubeyshubham786/66daysofdata/blob/main/Day%205/Day_5.ipynb">here</a>
 
