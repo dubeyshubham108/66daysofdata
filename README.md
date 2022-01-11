@@ -16,3 +16,6 @@ Learned about the OOPs concept, constructor and destructor, Encapsulation and po
 ## Day 5
 Learned about the NumPy library in python and its methods and why we prefer this library over the list. Also, get to know about the matrix operations in NumPy and various methods to merge the NumPy arrays. Check it <a href="https://github.com/dubeyshubham786/66daysofdata/blob/main/Day%205/Day_5.ipynb">here</a>
 
+## Day 6
+Learned about the pandas library. How dataframe is created and what is the use of this library. Learned about different methods of this library like head(), tail(), shape, info(), columns(), loc(), iloc(), set_option, etc. Check it out <a href="https://github.com/dubeyshubham786/66daysofdata/blob/main/Day%206/Day_6.ipynb">here</a>
+
