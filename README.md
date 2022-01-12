@@ -19,3 +19,5 @@ Learned about the NumPy library in python and its methods and why we prefer this
 ## Day 6
 Learned about the pandas library. How dataframe is created and what is the use of this library. Learned about different methods of this library like head(), tail(), shape, info(), columns(), loc(), iloc(), set_option, etc. Check it out <a href="https://github.com/dubeyshubham786/66daysofdata/blob/main/Day%206/Day_6.ipynb">here</a>
 
+## Day 7
+Work on different pandas operations on dataframe. How to add and delete rows and columns in the dataframe. split the column, find the mean and median, add two dataframe and sort the column values in ascending and descending order and also filter the data with greater than and less than parameters. Check it out <a href="https://github.com/dubeyshubham786/66daysofdata/blob/main/Day%207/Day_7.ipynb">here<a/>
