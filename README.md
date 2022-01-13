@@ -22,3 +22,6 @@ Learned about the pandas library. How dataframe is created and what is the use o
 ## Day 7
 Work on different pandas operations on dataframe. How to add and delete rows and columns in the dataframe. split the column, find the mean and median, add two dataframe and sort the column values in ascending and descending order and also filter the data with greater than and less than parameters. Check it out 
 <a href="https://github.com/dubeyshubham786/66daysofdata/blob/main/Day%207/Day_7.ipynb">here<a/>
+
+  ## Day 8
+  Learned about data visualization using the matplotlib library. Using matplotlib library drawn line chart, pie chart, and Bar chart. Also learned about the format string, tight layout function legend function. Click <a href="https://github.com/dubeyshubham786/66daysofdata/blob/main/Day%208/Day_8.ipynb">here</a>
