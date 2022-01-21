@@ -28,3 +28,8 @@ Work on different pandas operations on dataframe. How to add and delete rows and
   
   ## Day 9
   Spend my time learning about data visualization using matplotlib library. Drawn Histogram, Stack Plot, and also fill the area under the curve. Also, get to know the importance of this figure and why we use them. Click <a href ="https://github.com/dubeyshubham786/66daysofdata/blob/main/Day%209/Day_9.ipynb">here</a> for python notebook.
+  
+  ## Day 10
+  Learned about the seaborn library for data visualization. Also draw histplot and scatter plot. Click <a href="https://github.com/dubeyshubham786/66daysofdata/blob/main/Day%2010/Day_10.ipynb">here</a> for python notebook.
+  
+  
